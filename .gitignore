@@ -1,0 +1,5 @@
+generated/*.png
+generated/*.pdf
+generated/*.jpg
+origin_pics/*.png
+origin_pics/*.jpg
