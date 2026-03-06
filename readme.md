@@ -18,6 +18,9 @@ Application desktop en **Python** permettant de concevoir visuellement des carte
 Interface graphique développée avec **Tkinter**, génération d’images via **Pillow** et export PDF via **ReportLab**.
 
 ***
+##    Exemple
+
+![exemple1.png](examples/exemple1.png)
 
 ## 🚀 Fonctionnalités principales
 
